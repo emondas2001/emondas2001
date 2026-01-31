@@ -1,13 +1,12 @@
 # Hi, I'm Emon Das 👋  
-🎓 CSE Student | 🤖 AI & Data Science Enthusiast | 🔐 Cybersecurity Learner  
+🎓 CSE Student | 🤖 AI & Data Science Enthusiast | Web developing
 
 I love building intelligent systems, solving real-world problems with data, and developing secure, scalable applications.
 ## 🚀 Interests
 - Artificial Intelligence & Machine Learning  
-- Data Mining & Predictive Modeling  
-- Cybersecurity (XSS, SQL Injection Prevention)  
+- Data Mining & Predictive Modeling    
 - Web Development (.NET, ASP.NET MVC)  
-- Networking & System Design
+
 
 ## 🛠 Tech Stack
 
@@ -21,10 +20,10 @@ I love building intelligent systems, solving real-world problems with data, and 
 `ASP.NET MVC` | `.NET Core` | `HTML` | `CSS` | `JavaScript`
 
 **Database:**  
-`SQL Server` | `MySQL`
+`SQL Server` 
 
 **Tools:**  
-`Git` | `GitHub` | `Packet Tracer` | `VS Code` | `Visual Studio`
+ `GitHub` | `VS Code` | `Visual Studio`
 
 
 ## 📂 Featured Projects
