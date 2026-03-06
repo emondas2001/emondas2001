@@ -28,11 +28,19 @@ I love building intelligent systems, solving real-world problems with data, and 
 
 ## 📂 Featured Projects
 
-🔹 **Online Job Portal (ASP.NET MVC)**  
-A full-stack job portal with authentication, dashboards, and database integration.
+🔹 Online Job Portal (ASP.NET Core MVC)
 
-🔹 **AI-Based Financial Sentiment Analysis**  
-Used NLP models like FinBERT to analyze financial news sentiment.
+A full-stack job portal developed using ASP.NET MVC that allows employers to post job vacancies and job seekers to apply for jobs.
+Features include user authentication, role-based dashboards, and database integration for job management.
+
+🔹 AI-Based Financial Sentiment Analysis
+
+A machine learning project that analyzes financial news sentiment using NLP models such as FinBERT to classify news as positive, negative, or neutral for better financial decision insights.
+
+🔹 Beyond Boundaries – Tourism Website
+
+A dynamic tourism website developed using PHP, XAMPP, HTML, CSS, and JavaScript that allows users to explore travel destinations, hotels, and tourism services.
+Includes hotel listings, location details, ratings, and database-driven content management to create an interactive travel experience.
 
 ## 📈 GitHub Stats
 ![Emon's GitHub stats](https://github-readme-stats.vercel.app/api?username=emondas2001&show_icons=true&theme=tokyonight)
